@@ -1,0 +1,1 @@
+# 3Ds-max-Object-Resizer
