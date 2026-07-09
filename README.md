@@ -1,5 +1,13 @@
 # ObjResizer for 3ds Max
 
+[![MRT Object Resizer](RESIZE%20OBJECTS%20LIKE%20A%20PRO%20with%201%20Click%20-%20MRT%20Object%20Resizer%20for%203ds%20Max.png)](https://www.youtube.com/watch?v=I9IdpeGVziI)
+
+<div align="center">
+  <h3>Click the image above to watch the full tutorial on YouTube</h3>
+</div>
+
+---
+
 A professional, high-precision script designed to resize objects in 3ds Max without the usual headaches of coordinate system errors, scaling artifacts, or geometry deformation.
 
 ## Features
